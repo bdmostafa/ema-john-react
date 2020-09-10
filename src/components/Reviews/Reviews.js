@@ -18,7 +18,7 @@ const Reviews = () => {
         // setCart([]);
         // processOrder();
         // setOrderPlaced(true);
-        history.push('/Shipment');
+        history.push('/shipment');
     }
 
     // Remove a cart from saved state and local storage and update all the carts
